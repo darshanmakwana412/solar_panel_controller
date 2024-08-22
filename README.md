@@ -9,6 +9,8 @@ This method works because the solid angle projected by the panel onto the sun is
 
 ![](./runs/panel.png)
 
+### Simulation of Solar Panel Rotating along with Sun with different controller settings
+
  0.1            |   0.33 | 0.5 | 0.66 | 1
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./runs/pid_0.1.gif)  |  ![](./runs/pid_0.33.gif) | ![](./runs/pid_0.5.gif) |  ![](./runs/pid_0.66.gif) | ![](./runs/pid_1.gif)
